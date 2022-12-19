@@ -34,5 +34,5 @@ Q : Why would I use IPFS + Filecoin over a cloud based option?
 - Web3 capabilities 
 
 ## Disclaimer
-This repository was produced as part of the IPFS/Filecoin Next Steps Microgrant program.
+This repository was produced as part of the IPFS/Filecoin Next Steps Microgrant program. (I'm assuming I'm getting this grant you sleuths!)
 No part of this repository should be interpreted as any form of financial advice
