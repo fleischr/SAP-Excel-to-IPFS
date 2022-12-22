@@ -6,6 +6,7 @@ class ZCL_ABAP2XLSX_IPFS_EXAMPLE definition
 public section.
 
 protected section.
+data: mt_customers type zif_abap2xlsx_ipfs_example=>ty_t_customer.
 methods: get_data,
          generate_excel,
          save_to_al11,
@@ -19,6 +20,7 @@ ENDCLASS.
 
 CLASS ZCL_ABAP2XLSX_IPFS_EXAMPLE IMPLEMENTATION.
     method get_data.
+        "select id name_first name_lsat title_ft country_f
     endmethod.
     method generate_excel.
     endmethod.
